@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -6,7 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          Welcome to my personal site. It's under constuction!
+          Hey, I'm Casey. Welcome to my under-construction personal website :)
         </p>
         <a
           className="App-link"
@@ -14,7 +13,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          I even link to myself.
+          Here's a link to myself.
         </a>
       </header>
     </div>
