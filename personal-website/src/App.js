@@ -5,8 +5,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          Hey, I'm Casey. Welcome to my under-construction personal website :)
+          Hey, I'm Casey.
         </p>
+        <p>Welcome to my persdonal site. It's under construction.</p>
         <a
           className="App-link"
           href="https://cbarbello.github.io/"
