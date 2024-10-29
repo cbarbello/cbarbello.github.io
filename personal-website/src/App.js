@@ -1,13 +1,11 @@
-import './App.css';
+import "./App.css";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>
-          Hey, I'm Casey.
-        </p>
-        <p>Welcome to my persdonal site. It's under construction.</p>
+        <p>Hey, I'm Casey.</p>
+        <p>Welcome to my personal site. It's under construction.</p>
         <a
           className="App-link"
           href="https://cbarbello.github.io/"
